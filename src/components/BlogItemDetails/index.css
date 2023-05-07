@@ -1,0 +1,43 @@
+.spinner {
+  text-align: center;
+}
+.blog-data-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.title {
+  color: #2f4f4f;
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: bold;
+}
+.author-name {
+  color: #8e8e8e;
+  font-family: 'Roboto';
+  font-size: 16px;
+}
+.avatar-container {
+  display: flex;
+  flex-direction: row;
+}
+.avatar-image {
+  height: 30px;
+  width: 30px;
+  margin-top: 15px;
+  border-radius: 30px;
+  margin-right: 10px;
+}
+.blog-image {
+  height: 250px;
+  width: 100%;
+  border-radius: 10px;
+}
+.content {
+  color: #8e8e8e;
+  font-family: 'Roboto';
+  font-size: 14px;
+}

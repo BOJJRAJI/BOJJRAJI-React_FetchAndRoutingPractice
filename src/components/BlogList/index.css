@@ -1,0 +1,11 @@
+.spinner {
+  text-align: center;
+}
+.blogs-container {
+  width: 100%;
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-left: 0px;
+}
